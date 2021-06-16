@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 science city road sg highway
+=======
 science city road
 change in address
+>>>>>>> b0c576f (change file in address)
